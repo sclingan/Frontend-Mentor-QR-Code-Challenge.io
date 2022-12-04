@@ -56,16 +56,23 @@ body {
     flex-direction: column;
     align-items: center;
     font-size: .9rem;
-    /* check this */
-    margin: 25% 10%;
     text-align: center;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: 12.5rem;
+  padding-inline: 1.5625rem;
+}
+/* center card */
 .div--container-card {
     background-color: var(--primary-white);
     padding: 5%;
     border-radius: 1em;
-    width: 327px; /* fix this */
+    max-width: 20rem;
+    /* add margin for responsive and border shadow */
 }
 
 img {
@@ -80,15 +87,15 @@ h1 {
 }
 
 p {
-    padding-inline: 1.4rem;
+    padding-inline: 1.2rem;
     line-height: 1.2em;
     letter-spacing: .5px;
+    /* padding-bottom: 1rem; */
 }
-
+/* styles from Frontend Mentor */
 .attribution { 
     font-size: 11px;
     text-align: center; 
-    padding-top: 15%;
     color: hsl(0, 0%, 0%);
 }
 
