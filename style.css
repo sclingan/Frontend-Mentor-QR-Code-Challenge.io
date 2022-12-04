@@ -46,7 +46,7 @@
     --ff-weight-400: 400;
     --ff-weight-700: 700;
 }
-
+/* using flex to center card */
 body {
     background-color: var(--secondary-lightgray);
     font-family: var(--ff-body);
@@ -58,7 +58,7 @@ body {
     font-size: .9rem;
     text-align: center;
 }
-
+/* centering card element */
 main {
   padding-block: 12.5rem;
   padding-inline: 1.5625rem;
