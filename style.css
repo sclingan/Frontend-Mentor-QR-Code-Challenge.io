@@ -60,9 +60,6 @@ body {
 }
 
 main {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   padding-block: 12.5rem;
   padding-inline: 1.5625rem;
 }
@@ -82,7 +79,6 @@ img {
 h1 {
     color: hsl(0, 0%, 0%);
     font-size: 1.6em;
-    padding-inline: 1.3rem;
     padding-block: 1.3rem;
 }
 
@@ -90,7 +86,7 @@ p {
     padding-inline: 1.2rem;
     line-height: 1.2em;
     letter-spacing: .5px;
-    /* padding-bottom: 1rem; */
+    padding-bottom: 1.2rem;
 }
 /* styles from Frontend Mentor */
 .attribution { 
