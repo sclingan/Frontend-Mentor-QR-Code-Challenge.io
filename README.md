@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screen%20Shot%202022-12-04%20at%208.00.26%20PM%20(2).png)
+![](./images/Qr-code-screenshot.png)
 
 
 
@@ -40,29 +40,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I am learning how to make a website with semantic HTML and responsive CSS. A few things that were a challenge, centering
+elements and keeping them centered for different browsers and screen sizes. Trying to keep accessibility a main concern to
+ensure that all visitors to this web page are able to enjoy it!
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- (https://www.w3schools.com) - Learning semantic HTML and responsive CSS.
+- (https://developer.mozilla.org/en-US/) - This is an amazing site with a wide array of knowledge to help any developer.
 
 
 ## Author
@@ -72,5 +58,5 @@ const proudOfThisFunc = () => {
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thank you to Frontendmentor.io for this challenge, I look forward to completing more in the future.
 
