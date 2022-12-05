@@ -60,7 +60,8 @@ body {
 }
 /* centering card element */
 main {
-  padding-block: 12.5rem;
+  /* padding-block: 12.5rem; */
+  padding-block: 10rem;
   padding-inline: 1.5625rem;
 }
 /* center card */
